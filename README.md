@@ -1,10 +1,5 @@
 # ContingencyAnalysis.jl
 
-[![Build Status](https://github.com/username/ContingencyAnalysis.jl/actions/workflows/CI.yml/badge.svg)](https://github.com/username/ContingencyAnalysis.jl/actions/workflows/CI.yml)
-[![Coverage](https://codecov.io/gh/username/ContingencyAnalysis.jl/branch/main/graph/badge.svg)](https://codecov.io/gh/username/ContingencyAnalysis.jl)
-[![Stable](https://img.shields.io/badge/docs-stable-blue.svg)](https://username.github.io/ContingencyAnalysis.jl/stable/)
-[![Dev](https://img.shields.io/badge/docs-dev-blue.svg)](https://username.github.io/ContingencyAnalysis.jl/dev/)
-
 A Julia package for analysing contingency tables using exact and Monte Carlo versions of Fisher's exact test and Chi-square tests. The package automatically selects appropriate tests based on table characteristics and provides Monte Carlo alternatives when exact computations are infeasible.
 
 ## Installation
