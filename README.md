@@ -1,5 +1,7 @@
 # ContingencyAnalysis.jl
 
+!!! CAUTION: still very experimental !!!
+
 A Julia package for analysing contingency tables using exact and Monte Carlo versions of Fisher's exact test and Chi-square tests. The package automatically selects appropriate tests based on table characteristics and provides Monte Carlo alternatives when exact computations are infeasible.
 
 ## Installation
