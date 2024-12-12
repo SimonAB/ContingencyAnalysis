@@ -4,9 +4,17 @@ A Julia package for analysing contingency tables using exact and Monte Carlo ver
 
 ## Installation
 
+Since this package is not yet registered in Julia's General registry, you can install it directly from GitHub:
+
 ```julia
 using Pkg
-Pkg.add("ContingencyAnalysis")
+Pkg.add(url="https://github.com/username/ContingencyAnalysis.jl.git")
+```
+
+Or in pkg mode (press `]` in the Julia REPL):
+
+```julia
+pkg> add https://github.com/username/ContingencyAnalysis.jl.git
 ```
 
 ## Usage
