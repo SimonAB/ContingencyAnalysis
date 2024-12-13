@@ -1,4 +1,3 @@
-Pkg.develop(path="/Users/s_a_b/Documents/Work/Coding/ContingencyAnalysis")
 using ContingencyAnalysis
 using DataFrames
 
